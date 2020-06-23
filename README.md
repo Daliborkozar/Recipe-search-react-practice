@@ -6,7 +6,7 @@ Api used: https://www.edamam.com/
 
 
 
-![](/ss/ss1.png)
+![](/src/ss/ss1.png)
 
 
 
