@@ -45,7 +45,7 @@ h1 {
 }
 
 .alert {
-  position: absolute;
+  position: relative;
   top: -3rem;
   left: 0;
   background-color: rgb(233, 72, 72);
@@ -179,7 +179,7 @@ h1 {
 .form-wrapper {
     width: 450px;
     padding: 15px;
-    margin: 50px auto 50px auto;
+    margin: 0 auto 50px auto;
     background: #444;
     background: rgba(0,0,0,.2);
     -moz-border-radius: 10px;
